@@ -1,0 +1,15 @@
+ul,form {
+  font-size: 1rem;
+}
+
+a{
+  font-size: 1rem;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+img{
+  max-height: 2.5rem;
+  border: 2px solid white;
+  display: inline;
+}
